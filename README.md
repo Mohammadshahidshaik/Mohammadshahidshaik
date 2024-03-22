@@ -5,7 +5,7 @@
 
 <img align="right" alt="img" width="500px" src="./giphy.gif">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adilamanmohammed)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mohammadshahidshaik)
 
 <h2 align="left"> About Myself </h2>
 
@@ -15,9 +15,9 @@
  
 <h2 align="left">Connect With Me:</h2>
 <p align="center">
-<a href="https://www.facebook.com/mohammed1rakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed1rakib" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mohammed_adil_aman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_rakib10" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammedadilaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedrakib" height="30" width="40" /></a>
+<a href="https://www.facebook.com/skmd.shahid.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sha Hid" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_shahid_indian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shahid_indian" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/0129b6217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadshahidshaik" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages & Tools:</h3>
